@@ -16,7 +16,7 @@ This skill enables AI agents to create, manage, link, prove and verify ownership
 
     ```plaintext
     Install the skill `npx clawhub@latest install verified-agent-identity`
-    ```
+    ```npx clawhub@latest install verified-agent-identity
 
     Or install with skills.sh:
 
@@ -56,7 +56,7 @@ This skill enables AI agents to create, manage, link, prove and verify ownership
    ```bash
    # Generate a new key and create a new identity
    node scripts/createNewEthereumIdentity.js
-   ```
+   ```juni sarah
 
    Or
 
